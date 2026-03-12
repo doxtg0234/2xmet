@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://filmyfly4.in/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://filmyfly4.in/contact</loc>
+    <lastmod>2026-03-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://filmyfly4.in/privacy-policy</loc>
+    <lastmod>2026-03-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Disclaimer -->
+  <url>
+    <loc>https://filmyfly4.in/disclaimer</loc>
+    <lastmod>2026-03-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 404 Page (optional: usually not indexed) -->
+  <url>
+    <loc>https://filmyfly4.in/404</loc>
+    <lastmod>2026-03-09</lastmod>
+    <priority>0.1</priority>
+  </url>
+
+</urlset>
